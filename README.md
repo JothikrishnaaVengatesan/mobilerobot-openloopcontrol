@@ -103,10 +103,10 @@ if _name_ == '_main_':
 
 ![right](<img/WhatsApp Image 2024-01-03 at 01.23.17.jpeg>)
 
-![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (2).jpeg>)
-![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (1).jpeg>)
-
-![Alt text](<img/WhatsApp Image 2024-01-03 at 01.22.00.jpeg>)
+![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (2).jpeg>)<br>
+<br>![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (1).jpeg>)
+<br>
+![Alt text](<img/WhatsApp Image 2024-01-03 at 01.22.00.jpeg>)<br>
 
 
 ## MobileRobot Movement Video:
