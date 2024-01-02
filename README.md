@@ -99,14 +99,13 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![ robo](img/robomaster.png)
+
 ![left](<img/WhatsApp Image 2024-01-03 at 01.23.18.jpeg>)
 
 ![right](<img/WhatsApp Image 2024-01-03 at 01.23.17.jpeg>)
 
-![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (2).jpeg>)<br>
-<br>![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (1).jpeg>)
-<br>
-![Alt text](<img/WhatsApp Image 2024-01-03 at 01.22.00.jpeg>)<br>
+
+
 
 
 ## MobileRobot Movement Video:
