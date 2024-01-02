@@ -98,12 +98,15 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)<br>
-![front](<img/WhatsApp Image 2024-01-02 at 23.32.55.jpeg>)<br>
-![front](<img/WhatsApp Image 2024-01-02 at 23.33.02 (1).jpeg>)<br>
-![left](<img/WhatsApp Image 2024-01-02 at 23.33.02.jpeg>)<br>
-![back](<img/WhatsApp Image 2024-01-02 at 23.33.05.jpeg>)<br>
-![right](<img/WhatsApp Image 2024-01-02 at 23.33.06.jpeg>)<br>
+![ robo](img/robomaster.png)
+![left](<img/WhatsApp Image 2024-01-03 at 01.23.18.jpeg>)
+
+![right](<img/WhatsApp Image 2024-01-03 at 01.23.17.jpeg>)
+
+![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (2).jpeg>)
+![Alt text](<img/WhatsApp Image 2024-01-03 at 01.23.17 (1).jpeg>)
+
+![Alt text](<img/WhatsApp Image 2024-01-03 at 01.22.00.jpeg>)
 
 
 ## MobileRobot Movement Video:
